@@ -1,0 +1,29 @@
+I thought I would take time out of my day to start a series to not only help those that want to get into Python,
+but also as a way to remind myself of what I am learning or have learned (an online repository of sorts): 
+
+Lesson 1: Printing Strings
+
+Printing a string in quite simple. 
+
+First, create a variable. Let's say, in this case, the word, message:
+
+message 
+
+Next, assign a value to the variable using equal sign or = 
+
+message=
+
+Now, place a string (or a set of numbers, letters, symbols, spaces) in quotation marks--whatever you want to tell the world: 
+
+message= "Hello, LinkedIn!"
+
+And last but not least, use the print function or action to tell Python to print the string:
+
+message= "Hello, LinkedIn!"
+print (message)
+
+You should get the following message back from your program
+
+Hello, LinkedIn!
+
+And there you have it. You (or me?) are one step closer to becoming a programmer, system administrator, etc ! =)
