@@ -1,0 +1,18 @@
+Lesson 2: Pound Signs 
+
+Following our previous lesson, we will be taking our previously created code:
+
+message = "Hello, LinkedIn!" 
+print (message) 
+
+and adding small notes to it using the pound sign or # sign. 
+
+These pound signs or hash tags serve as demarcations to let anyone reading code what the code does or what section of your code might need a little work, without having any effect on the code itself:
+
+hashtag#PringtingStrings. 
+hashtag#Actually, this code might need a little work. Can you please make the string or set of strings a little longer please? Thanks. 
+
+message = "Hello, LinkedIn!" 
+print (message) 
+
+Now, you try to add pound signs to this or another project you are creating 
